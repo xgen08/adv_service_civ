@@ -2,6 +2,12 @@
 
 Site vitrine d'ADV Service CIV — meubles et aménagements sur mesure (cuisine, dressing, salon, bureau, portes PVC, déco intérieure) à Port-Bouet, Gonzagueville (Abidjan).
 
+## 🌐 Aperçu en ligne
+
+[**Voir le site ADV Service CIV**](https://xgen08.github.io/adv_service_civ/)
+
+> Le lien sera accessible après activation et réussite du déploiement GitHub Pages.
+
 ## 🛠️ Technologies
 
 - Nuxt 3
